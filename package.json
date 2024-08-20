@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "audio-buffer": "^5.0.0",
+    "wav": "^1.0.2",
+    "wav-decoder": "^1.3.0",
+    "wav-encoder": "^1.3.0"
+  },
+  "name": "wav-audio-cancellation",
+  "version": "1.0.0",
+  "main": "diff.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
